@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `ls -a` `cd -` `ls -a` `cd /boot` `ls -a`
+echo `ls -la` `cd -` `ls -a` `cd /boot` `ls -la`
