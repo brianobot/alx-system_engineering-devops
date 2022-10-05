@@ -36,4 +36,4 @@
 
 18-commas writes a command that lists all the files and directories of the current directory, separated by commas (,).
 
-19-Magic file to find and track all files that have the string SCHOOL at offset 0
+19-Magic file to find and track all files that have the string at offset 0
