@@ -1,1 +1,1 @@
-Script for working with directories
+script for current working dir
