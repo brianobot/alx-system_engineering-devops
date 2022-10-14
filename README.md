@@ -1,1 +1,1 @@
-Bash script to the absolute path of the current directory
+C programming task readme
